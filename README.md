@@ -1,4 +1,4 @@
-# cd.ethz.idsc.amodeus <a href="https://travis-ci.org/idsc-frazzoli/amodeus"><img src="https://travis-ci.org/idsc-frazzoli/amodeus.svg?branch=master" alt="Build Status"></a>
+# cd.ethz.idsc.amodeus <a href="https://travis-ci.org/mbattifarano/amodeus"><img src="https://travis-ci.org/mbattifarano/amodeus.svg?branch=master" alt="Build Status"></a>
 
 Autonomous mobility-on-demand simulation library, version `1.7.7`
 
